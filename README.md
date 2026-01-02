@@ -1,4 +1,4 @@
-# sumbarger.github.io
+# Home
 Professional website for my research
 
 # About Me
